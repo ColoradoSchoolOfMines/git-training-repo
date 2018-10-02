@@ -1,5 +1,6 @@
 
 
+
 Hey look I fixed it.
 =======
 Hello world
@@ -22,6 +23,10 @@ hi
 =======
 
 =======
+=======
+HELLO
+HOLA AMIGO
+
 what is going on 
 i kinda know what im doing but not really
 
