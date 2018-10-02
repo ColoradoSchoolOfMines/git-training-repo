@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world
+=======
+HELLO
+>>>>>>> 42de5fd0a8de76e325b2ac05bdb9f1e88d49c8fa
+Hi!
