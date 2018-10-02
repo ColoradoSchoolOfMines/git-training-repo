@@ -1,15 +1,25 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello world
 =======
 HELLO
 >>>>>>> 42de5fd0a8de76e325b2ac05bdb9f1e88d49c8fa
 Hi!
 =======
+=======
+print("ya mom xd")
+=======
+<<<<<<< HEAD
+>>>>>>> 7b0b32aea108d0d537719efd41cdba8d8e074439
 aaaaaaahhhhhhhh
 hello
 =======
 HELLO
 >>>>>>> master
+<<<<<<< HEAD
 >>>>>>> a03915a61a6c2af62acbe733dc52ea5e7bce6d54
 hi
+=======
+>>>>>>> master
+>>>>>>> 7b0b32aea108d0d537719efd41cdba8d8e074439
