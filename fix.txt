@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 print("ya mom xd")
+=======
+<<<<<<< HEAD
+aaaaaaahhhhhhhh
+hello
+=======
+HELLO
+>>>>>>> master
+>>>>>>> master
