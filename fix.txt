@@ -1,6 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello world
 =======
 HELLO
 >>>>>>> 42de5fd0a8de76e325b2ac05bdb9f1e88d49c8fa
 Hi!
+=======
+aaaaaaahhhhhhhh
+hello
+=======
+HELLO
+>>>>>>> master
+>>>>>>> a03915a61a6c2af62acbe733dc52ea5e7bce6d54
+hi
